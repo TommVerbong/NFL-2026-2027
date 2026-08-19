@@ -1,0 +1,219 @@
+{
+  "teamOwners": {
+    "Seahawks": "Tom",
+    "Bills": "Tom",
+    "Ravens": "Tom",
+    "Browns": "Tom",
+    "Bears": "Tom",
+    "Dolphins": "Tom",
+    "Packers": "Tom",
+    "Cowboys": "Tom",
+    "Patriots": "Sjoerd",
+    "Texans": "Sjoerd",
+    "Colts": "Sjoerd",
+    "Jaguars": "Sjoerd",
+    "Panthers": "Sjoerd",
+    "Raiders": "Sjoerd",
+    "Vikings": "Sjoerd",
+    "Giants": "Sjoerd",
+    "49ers": "Nick",
+    "Jets": "Nick",
+    "Buccaneers": "Nick",
+    "Falcons": "Nick",
+    "Saints": "Nick",
+    "Cardinals": "Nick",
+    "Commanders": "Nick",
+    "Broncos": "Nick",
+    "Rams": "Marco",
+    "Titans": "Marco",
+    "Bengals": "Marco",
+    "Steelers": "Marco",
+    "Lions": "Marco",
+    "Chargers": "Marco",
+    "Eagles": "Marco",
+    "Chiefs": "Marco"
+  },
+  "schedule": [
+    {
+      "id": "w1-01",
+      "week": 1,
+      "date": "do 10 sep",
+      "time": "02:20",
+      "away": "Patriots",
+      "home": "Seahawks",
+      "tv": "NBC",
+      "awayScore": 17,
+      "homeScore": 24
+    },
+    {
+      "id": "w1-02",
+      "week": 1,
+      "date": "vr 11 sep",
+      "time": "02:35",
+      "away": "49ers",
+      "home": "Rams",
+      "tv": "Netflix",
+      "awayScore": 21,
+      "homeScore": 21
+    },
+    {
+      "id": "w1-03",
+      "week": 1,
+      "date": "zo 13 sep",
+      "time": "19:00",
+      "away": "Bills",
+      "home": "Texans",
+      "tv": "CBS",
+      "awayScore": 28,
+      "homeScore": 20
+    },
+    {
+      "id": "w1-04",
+      "week": 1,
+      "date": "zo 13 sep",
+      "time": "19:00",
+      "away": "Jets",
+      "home": "Titans",
+      "tv": "CBS",
+      "awayScore": 13,
+      "homeScore": 16
+    },
+    {
+      "id": "w1-05",
+      "week": 1,
+      "date": "zo 13 sep",
+      "time": "19:00",
+      "away": "Ravens",
+      "home": "Colts",
+      "tv": "CBS",
+      "awayScore": 31,
+      "homeScore": 10
+    },
+    {
+      "id": "w1-06",
+      "week": 1,
+      "date": "zo 13 sep",
+      "time": "22:25",
+      "away": "Packers",
+      "home": "Vikings",
+      "tv": "CBS",
+      "awayScore": 17,
+      "homeScore": 23
+    },
+    {
+      "id": "w2-01",
+      "week": 2,
+      "date": "do 17 sep",
+      "time": "02:15",
+      "away": "Chiefs",
+      "home": "Bills",
+      "tv": "Prime",
+      "awayScore": 24,
+      "homeScore": 27
+    },
+    {
+      "id": "w2-02",
+      "week": 2,
+      "date": "zo 20 sep",
+      "time": "19:00",
+      "away": "Cowboys",
+      "home": "Eagles",
+      "tv": "FOX",
+      "awayScore": 14,
+      "homeScore": 30
+    },
+    {
+      "id": "w2-03",
+      "week": 2,
+      "date": "zo 20 sep",
+      "time": "19:00",
+      "away": "Bears",
+      "home": "Lions",
+      "tv": "FOX",
+      "awayScore": 20,
+      "homeScore": 20
+    },
+    {
+      "id": "w2-04",
+      "week": 2,
+      "date": "zo 20 sep",
+      "time": "22:25",
+      "away": "Dolphins",
+      "home": "Chargers",
+      "tv": "CBS",
+      "awayScore": 34,
+      "homeScore": 31
+    },
+    {
+      "id": "w2-05",
+      "week": 2,
+      "date": "ma 21 sep",
+      "time": "02:20",
+      "away": "Giants",
+      "home": "Cowboys",
+      "tv": "NBC",
+      "awayScore": 9,
+      "homeScore": 12
+    },
+    {
+      "id": "w2-06",
+      "week": 2,
+      "date": "di 22 sep",
+      "time": "02:15",
+      "away": "Broncos",
+      "home": "Chiefs",
+      "tv": "ESPN",
+      "awayScore": 10,
+      "homeScore": 38
+    },
+    {
+      "id": "w3-01",
+      "week": 3,
+      "date": "zo 27 sep",
+      "time": "19:00",
+      "away": "Browns",
+      "home": "Steelers",
+      "tv": "CBS",
+      "awayScore": "",
+      "homeScore": ""
+    },
+    {
+      "id": "w3-02",
+      "week": 3,
+      "date": "zo 27 sep",
+      "time": "22:25",
+      "away": "Saints",
+      "home": "Falcons",
+      "tv": "FOX",
+      "awayScore": "",
+      "homeScore": ""
+    }
+  ],
+  "doublers": {
+    "1": {
+      "Tom": "Bills",
+      "Sjoerd": "Vikings",
+      "Nick": "49ers",
+      "Marco": "Rams"
+    },
+    "2": {
+      "Tom": "Dolphins",
+      "Sjoerd": "Giants",
+      "Nick": "Broncos",
+      "Marco": "Chiefs"
+    },
+    "3": {
+      "Tom": "Browns",
+      "Sjoerd": "",
+      "Nick": "Saints",
+      "Marco": "Steelers"
+    }
+  },
+  "lockedWeeks": [
+    1,
+    2
+  ],
+  "auditLog": [
+    "Voorbeeld: Tom heeft week 1 en week 2 vergrendeld. Week 3 is open en telt niet mee voor laagste weekscore."
+  ]
+}

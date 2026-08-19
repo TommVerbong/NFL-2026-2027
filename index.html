@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NFL Poule 2026-2027</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <div class="eyebrow">NFL Poule 2026-2027</div>
+        <h1>Wedstrijdschema, weeklock & statistieken</h1>
+        <p>Publieke poulepagina met kleurcodering per speler, verdubbelaars, vergrendelde weken en live berekende tussenstand.</p>
+      </div>
+      <div class="score-card">
+        <span>Puntentelling</span>
+        <strong>Winst 1 · Gelijk 1</strong>
+        <small>Verdubbelaar verdubbelt winst of gelijkspel</small>
+      </div>
+    </header>
+
+    <section class="admin-panel" id="adminPanel">
+      <div>
+        <h2>Beheerrechten</h2>
+        <p>Alleen admin kan lokaal uitslagen, verdubbelaars en weekstatus aanpassen. De publieke site wordt bijgewerkt door data.json in GitHub te vervangen.</p>
+      </div>
+      <div class="admin-login" id="adminLogin">
+        <input id="pinInput" type="password" placeholder="Admin PIN" autocomplete="off" />
+        <button id="loginBtn" class="btn dark">Inloggen</button>
+      </div>
+      <div class="admin-status hidden" id="adminStatus">
+        <span>Admin actief</span>
+        <button id="logoutBtn" class="btn muted">Uitloggen</button>
+      </div>
+    </section>
+
+    <nav class="tabs" aria-label="Navigatie">
+      <button class="tab active" data-tab="schedule">Wedstrijdschema</button>
+      <button class="tab" data-tab="standings">Tussenstand & statistieken</button>
+    </nav>
+
+    <main>
+      <section id="scheduleTab" class="tab-panel active">
+        <div id="ownerLegend" class="owner-legend"></div>
+
+        <section class="toolbar-card">
+          <div>
+            <h2>Wedstrijdschema</h2>
+            <p>Eén knop opent of vergrendelt de volledige week, inclusief uitslagen en verdubbelaars.</p>
+          </div>
+          <div class="toolbar-actions">
+            <input id="searchInput" type="search" placeholder="Zoek team of zender" />
+            <select id="weekSelect"></select>
+            <button id="lockWeekBtn" class="btn dark" disabled>Week vergrendelen</button>
+          </div>
+          <div id="weekStatus" class="week-status"></div>
+        </section>
+
+        <section class="card">
+          <h3 id="doublersTitle">Verdubbelaars</h3>
+          <div id="doublersGrid" class="doublers-grid"></div>
+        </section>
+
+        <section class="table-card">
+          <div class="grid-row table-head schedule-grid">
+            <div>Datum</div>
+            <div>Tijd</div>
+            <div>Uit</div>
+            <div class="center">Uitslag</div>
+            <div>Thuis</div>
+          </div>
+          <div id="scheduleList"></div>
+        </section>
+
+        <section class="card">
+          <h3>Weekstatus-log</h3>
+          <div id="auditLog" class="audit-log"></div>
+        </section>
+      </section>
+
+      <section id="standingsTab" class="tab-panel">
+        <section class="card intro-card">
+          <h2>Tussenstand & statistieken</h2>
+          <p>Laagste weekscore telt alleen weken mee die vergrendeld én ingevuld zijn. Open/lege weken worden genegeerd.</p>
+        </section>
+
+        <section class="table-card">
+          <h3>Tussenstand</h3>
+          <div class="grid-row table-head standings-grid">
+            <div>#</div>
+            <div>Speler</div>
+            <div class="right">Punten</div>
+            <div class="right">W-L-D</div>
+            <div class="right">Verdubbelaar hits</div>
+          </div>
+          <div id="rankingList"></div>
+          <p class="hint">W-L-D = Wins, Losses, Draws. D staat voor gelijkspel.</p>
+        </section>
+
+        <section id="statCards" class="stat-grid"></section>
+
+        <section class="table-card">
+          <h3>Uitgebreide spelersstatistieken</h3>
+          <div class="grid-row table-head player-grid">
+            <div>Speler</div>
+            <div class="right">Punten</div>
+            <div class="right">Wins</div>
+            <div class="right">Losses</div>
+            <div class="right">D</div>
+            <div class="right">Doubler hits</div>
+          </div>
+          <div id="playerStats"></div>
+        </section>
+
+        <section class="team-tables">
+          <div class="table-card">
+            <h3>Top teams</h3>
+            <div id="topTeams"></div>
+            <p class="hint">Maximaal 5 teams. Teams zonder gespeelde wedstrijd tellen niet mee.</p>
+          </div>
+          <div class="table-card">
+            <h3>Worst teams</h3>
+            <div id="worstTeams"></div>
+            <p class="hint">Maximaal 5 teams. Teams zonder gespeelde wedstrijd tellen niet mee.</p>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <section class="admin-tools" id="adminTools">
+      <details>
+        <summary>Beheerhulpmiddelen data.json</summary>
+        <p>Gebruik deze alleen als Tom/admin. Hiermee kun je lokale wijzigingen exporteren, importeren of resetten. Voor publicatie vervang je data.json in GitHub en commit je de wijziging.</p>
+        <div class="tool-buttons">
+          <button id="downloadJsonBtn" class="btn muted">Download data.json</button>
+          <label class="btn muted file-label">Import data.json <input id="importJsonInput" type="file" accept="application/json" hidden></label>
+          <button id="resetLocalBtn" class="btn danger">Reset lokale invoer</button>
+        </div>
+      </details>
+    </section>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
