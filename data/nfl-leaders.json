@@ -1,0 +1,15 @@
+{
+  "season": 2026,
+  "seasonType": "REG",
+  "source": "NFL.com",
+  "updatedAt": null,
+  "message": "Nog geen statistieken beschikbaar voor NFL Regular Season 2026.",
+  "categories": {
+    "passing": [],
+    "rushing": [],
+    "receiving": [],
+    "tackles": [],
+    "sacks": [],
+    "interceptions": []
+  }
+}
