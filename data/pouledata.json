@@ -1,8 +1,27 @@
 {
   "version": "v20",
-  "scores": {},
-  "doublersByWeek": {},
-  "lockedWeeks": {},
+  "exportedAt": "2026-09-12T07:14:33.285Z",
+  "scores": {
+    "do 10 sep-02:20-Patriots-Seahawks": {
+      "home": "13",
+      "away": "10"
+    },
+    "vr 11 sep-02:35-49ers-Rams": {
+      "home": "7",
+      "away": "27"
+    }
+  },
+  "doublersByWeek": {
+    "1": {
+      "Tom": "Jaguars",
+      "Nick": "Chargers",
+      "Marco": "Eagles",
+      "Sjoerd": "Packers"
+    }
+  },
+  "lockedWeeks": {
+    "1": true
+  },
   "bonusAnswers": {
     "0": {
       "Sjoerd": "Kellen Moore",
@@ -99,5 +118,5 @@
       "Tom": "Smithx"
     }
   },
-  "leaderPredictionsLocked": true
+  "leaderPredictionsLocked": false
 }
