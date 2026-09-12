@@ -1,6 +1,6 @@
 {
-  "version": "v23",
-  "exportedAt": "2026-09-12T07:14:33.285Z",
+  "version": "v22",
+  "exportedAt": "2026-09-12T07:39:24.046Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -118,6 +118,6 @@
       "Tom": "Smithx"
     }
   },
-  "leaderPredictionsLocked": false,
-  "leaderOfficialAnswers": {}
+  "leaderOfficialAnswers": {},
+  "leaderPredictionsLocked": true
 }
