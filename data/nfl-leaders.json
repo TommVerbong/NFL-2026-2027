@@ -2,7 +2,7 @@
   "season": 2026,
   "seasonType": "REG",
   "source": "NFL.com",
-  "updatedAt": "2026-09-08T06:31:26.651518+00:00",
+  "updatedAt": null,
   "message": "Nog geen statistieken beschikbaar voor NFL Regular Season 2026.",
   "categories": {
     "passing": [],
@@ -11,13 +11,5 @@
     "tackles": [],
     "sacks": [],
     "interceptions": []
-  },
-  "urls": {
-    "passing": "https://www.nfl.com/stats/player-stats/category/passing/2026/reg/all/passingyards/desc",
-    "rushing": "https://www.nfl.com/stats/player-stats/category/rushing/2026/reg/all/rushingyards/desc",
-    "receiving": "https://www.nfl.com/stats/player-stats/category/receiving/2026/reg/all/receivingreceptions/desc",
-    "tackles": "https://www.nfl.com/stats/player-stats/category/tackles/2026/reg/all/defensivecombinetackles/desc",
-    "sacks": "https://www.nfl.com/stats/player-stats/category/defense/2026/reg/all/defensivesacks/desc",
-    "interceptions": "https://www.nfl.com/stats/player-stats/category/interceptions/2026/reg/all/defensiveinterceptions/desc"
   }
 }

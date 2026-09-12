@@ -1,9 +1,103 @@
 {
-  "version": "v19",
+  "version": "v20",
   "scores": {},
   "doublersByWeek": {},
   "lockedWeeks": {},
-  "bonusAnswers": {},
+  "bonusAnswers": {
+    "0": {
+      "Sjoerd": "Kellen Moore",
+      "Nick": "Aaron Glenn",
+      "Marco": "Dan Quinn",
+      "Tom": "Aaron Glenn"
+    },
+    "1": {
+      "Sjoerd": "7",
+      "Nick": "4",
+      "Marco": "3",
+      "Tom": "5"
+    },
+    "2": {
+      "Sjoerd": "week 4",
+      "Nick": "week 2",
+      "Marco": "week 4",
+      "Tom": "week 6"
+    },
+    "3": {
+      "Sjoerd": "NFC West",
+      "Nick": "NFC North",
+      "Marco": "NFC West",
+      "Tom": "NFC North"
+    },
+    "4": {
+      "Sjoerd": "Chiefs",
+      "Nick": "Cardinals",
+      "Marco": "G Packers",
+      "Tom": "Steelers"
+    },
+    "5": {
+      "Sjoerd": "Bills",
+      "Nick": "Rams",
+      "Marco": "Rams",
+      "Tom": "Lions"
+    },
+    "6": {
+      "Sjoerd": "Bills",
+      "Nick": "Rams",
+      "Marco": "Rams",
+      "Tom": "Bengals"
+    },
+    "7": {
+      "Sjoerd": "Eagles",
+      "Nick": "Cardinals",
+      "Marco": "Texans",
+      "Tom": "Texans"
+    },
+    "8": {
+      "Sjoerd": "Nee",
+      "Nick": "Nee",
+      "Marco": "Rams",
+      "Tom": "Ravens"
+    }
+  },
   "bonusOfficial": {},
-  "bonusLocked": false
+  "bonusLocked": true,
+  "leaderPredictions": {
+    "passing": {
+      "Sjoerd": "Stafford",
+      "Nick": "Burrow",
+      "Marco": "Stafford",
+      "Tom": "Burrow"
+    },
+    "rushing": {
+      "Sjoerd": "Cook",
+      "Nick": "Henry",
+      "Marco": "Robinson",
+      "Tom": "Robinson"
+    },
+    "receiving": {
+      "Sjoerd": "Smith-Njigba",
+      "Nick": "Nacua",
+      "Marco": "Nacua",
+      "Tom": "Chase"
+    },
+    "sacks": {
+      "Sjoerd": "Garrett",
+      "Nick": "Garrett",
+      "Marco": "Garrett",
+      "Tom": "Anderson Jr."
+    },
+    "interceptions": {
+      "Sjoerd": "Byard",
+      "Nick": "Bullock",
+      "Marco": "Bland",
+      "Tom": "Surtain"
+    },
+    "tackles": {
+      "Sjoerd": "Brooks",
+      "Nick": "Williams",
+      "Marco": "Williams",
+      "Tom": "Smithx"
+    }
+  },
+  "leaderPredictionsLocked": true
 }
