@@ -1,28 +1,12 @@
-# NFL Poule 2026-2027
+# NFL Poule 2026-2027 v20
 
-## Eenmalig publiceren
-Upload alle bestanden met behoud van de mappenstructuur. Kies bij Settings > Pages als bron **GitHub Actions**.
+De bonusvragen en NFL Leader-voorspellingen zijn vooraf ingevuld en vergrendeld.
 
-## Wekelijkse score-update
-1. Open de live website in je vaste beheerbrowser.
-2. Log in met de admin-PIN.
-3. Vul uitslagen en verdubbelaars in en vergrendel de week.
-4. Klik bij Beheer op **Download pouledata.json**.
-5. Ga in GitHub naar `data/pouledata.json`.
-6. Verwijder het oude bestand of upload het nieuwe bestand met exact dezelfde naam.
-7. Commit de wijziging naar `main`.
-8. Wacht tot de Pages-workflow een groen vinkje toont.
-9. Alle bezoekers laden daarna de gepubliceerde gegevens uit `data/pouledata.json`.
+## Publiceren
+Upload `index.html`, `data`, `scripts`, `requirements.txt` en de workflows. Maak verborgen workflowbestanden via GitHub handmatig aan onder `.github/workflows/`.
 
-## Bonusvragen
-- Vul als admin de vier voorspellingen per vraag in.
-- Vergrendel de bonusvragen vóór de start van het seizoen.
-- Download en commit daarna `pouledata.json`.
-- Vul na afloop het officiële antwoord in. Exacte overeenkomsten, ongeacht hoofdletters of extra spaties, leveren 2 punten op.
-- Download en commit opnieuw `pouledata.json`.
+## Wekelijkse update
+Log in, pas gegevens aan, download `pouledata.json`, vervang `data/pouledata.json` in GitHub en commit.
 
-## NFL Leaders
-De workflow `.github/workflows/update-nfl-leaders.yml` draait iedere dinsdag om 08:15 uur in `Europe/Amsterdam`. Handmatig starten kan via **Actions > Update NFL Leaders > Run workflow**. De workflow schrijft `data/nfl-leaders.json` en commit dit automatisch.
-
-## Belangrijk
-Gebruik voor admin-invoer bij voorkeur steeds dezelfde browser en computer. Het lokale concept blijft aanwezig tot je de gedownloade `pouledata.json` naar GitHub commit. Na publicatie zien alle bezoekers dezelfde officiële gegevens.
+## NFL Leader-punten
+De nummer 1 uit `data/nfl-leaders.json` wordt vergeleken met de voorspelling. Exacte overeenkomst, zonder verschil in hoofdletters of extra spaties, levert 2 punten op.
