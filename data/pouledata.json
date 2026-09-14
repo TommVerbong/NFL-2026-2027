@@ -1,6 +1,6 @@
 {
-  "version": "v22",
-  "exportedAt": "2026-09-12T07:39:24.046Z",
+  "version": "v23",
+  "exportedAt": "2026-09-14T06:12:13.768Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -9,6 +9,58 @@
     "vr 11 sep-02:35-49ers-Rams": {
       "home": "7",
       "away": "27"
+    },
+    "zo 13 sep-19:00-Buccaneers-Bengals": {
+      "home": "33",
+      "away": "27"
+    },
+    "zo 13 sep-19:00-Saints-Lions": {
+      "home": "31",
+      "away": "30"
+    },
+    "zo 13 sep-19:00-Jets-Titans": {
+      "home": "10",
+      "away": "23"
+    },
+    "zo 13 sep-19:00-Ravens-Colts": {
+      "home": "23",
+      "away": "41"
+    },
+    "zo 13 sep-19:00-Falcons-Steelers": {
+      "home": "20",
+      "away": "13"
+    },
+    "zo 13 sep-19:00-Bears-Panthers": {
+      "home": "37",
+      "away": "59"
+    },
+    "zo 13 sep-19:00-Browns-Jaguars": {
+      "home": "34",
+      "away": "10"
+    },
+    "zo 13 sep-19:00-Bills-Texans": {
+      "home": "31",
+      "away": "36"
+    },
+    "zo 13 sep-22:25-Dolphins-Raiders": {
+      "home": "27",
+      "away": "13"
+    },
+    "zo 13 sep-22:25-Packers-Vikings": {
+      "home": "39",
+      "away": "22"
+    },
+    "zo 13 sep-22:25-Commanders-Eagles": {
+      "home": "24",
+      "away": "22"
+    },
+    "zo 13 sep-22:25-Cardinals-Chargers": {
+      "home": "14",
+      "away": "26"
+    },
+    "ma 14 sep-02:20-Cowboys-Giants": {
+      "home": "28",
+      "away": "20"
     }
   },
   "doublersByWeek": {
