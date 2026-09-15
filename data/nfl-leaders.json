@@ -2,14 +2,152 @@
   "season": 2026,
   "seasonType": "REG",
   "source": "NFL.com",
-  "updatedAt": null,
-  "message": "Nog geen statistieken beschikbaar voor NFL Regular Season 2026.",
+  "updatedAt": "2026-09-15T06:33:21.848485+00:00",
+  "message": "",
   "categories": {
-    "passing": [],
-    "rushing": [],
-    "receiving": [],
-    "tackles": [],
+    "passing": [
+      {
+        "player": "Tyler Shough",
+        "team": "",
+        "value": "410"
+      },
+      {
+        "player": "Jordan Love",
+        "team": "",
+        "value": "387"
+      },
+      {
+        "player": "Bryce Young",
+        "team": "",
+        "value": "361"
+      },
+      {
+        "player": "Josh Allen",
+        "team": "",
+        "value": "334"
+      },
+      {
+        "player": "Lamar Jackson",
+        "team": "",
+        "value": "324"
+      }
+    ],
+    "rushing": [
+      {
+        "player": "Kenneth Walker III",
+        "team": "III",
+        "value": "173"
+      },
+      {
+        "player": "Jahmyr Gibbs",
+        "team": "",
+        "value": "156"
+      },
+      {
+        "player": "Derrick Henry",
+        "team": "",
+        "value": "144"
+      },
+      {
+        "player": "D'Andre Swift",
+        "team": "",
+        "value": "124"
+      },
+      {
+        "player": "Breece Hall",
+        "team": "",
+        "value": "102"
+      }
+    ],
+    "receiving": [
+      {
+        "player": "Chris Olave",
+        "team": "",
+        "value": "182"
+      },
+      {
+        "player": "Zay Flowers",
+        "team": "",
+        "value": "150"
+      },
+      {
+        "player": "Christian Watson",
+        "team": "",
+        "value": "147"
+      },
+      {
+        "player": "Jalen Coker",
+        "team": "",
+        "value": "138"
+      },
+      {
+        "player": "Dalton Kincaid",
+        "team": "",
+        "value": "130"
+      }
+    ],
+    "tackles": [
+      {
+        "player": "Anthony Hill Jr.",
+        "team": "",
+        "value": "16"
+      },
+      {
+        "player": "Alex Singleton",
+        "team": "",
+        "value": "15"
+      },
+      {
+        "player": "Jacob Rodriguez",
+        "team": "",
+        "value": "14"
+      },
+      {
+        "player": "Ernest Jones",
+        "team": "",
+        "value": "13"
+      },
+      {
+        "player": "Devin Lloyd",
+        "team": "",
+        "value": "13"
+      }
+    ],
     "sacks": [],
-    "interceptions": []
+    "interceptions": [
+      {
+        "player": "Derrick Barnes",
+        "team": "",
+        "value": "1"
+      },
+      {
+        "player": "Jaquan Brisker",
+        "team": "",
+        "value": "1"
+      },
+      {
+        "player": "Chuck Clark",
+        "team": "",
+        "value": "1"
+      },
+      {
+        "player": "Mansoor Delane",
+        "team": "",
+        "value": "1"
+      },
+      {
+        "player": "Renardo Green",
+        "team": "",
+        "value": "1"
+      }
+    ]
+  },
+  "urls": {
+    "passing": "https://www.nfl.com/stats/player-stats/category/passing/2026/reg/all/passingyards/desc",
+    "rushing": "https://www.nfl.com/stats/player-stats/category/rushing/2026/reg/all/rushingyards/desc",
+    "receiving": "https://www.nfl.com/stats/player-stats/category/receiving/2026/reg/all/receivingyards/desc",
+    "tackles": "https://www.nfl.com/stats/player-stats/category/tackles/2026/reg/all/defensivecombinetackles/desc",
+    "sacks": "https://www.nfl.com/stats/player-stats/category/defense/2026/reg/all/defensivesacks/desc",
+    "interceptions": "https://www.nfl.com/stats/player-stats/category/interceptions/2026/reg/all/defensiveinterceptions/desc"
   }
 }
