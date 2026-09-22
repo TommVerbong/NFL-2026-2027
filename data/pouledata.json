@@ -1,6 +1,6 @@
 {
   "version": "v23",
-  "exportedAt": "2026-09-21T06:05:59.045Z",
+  "exportedAt": "2026-09-22T11:16:40.541Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -125,6 +125,10 @@
     "zo 20 sep-19:00-Steelers-Patriots": {
       "home": "20",
       "away": "3"
+    },
+    "di 22 sep-02:15-Giants-Rams": {
+      "home": "28",
+      "away": "6"
     }
   },
   "doublersByWeek": {
