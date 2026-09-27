@@ -1,6 +1,6 @@
 {
   "version": "v23",
-  "exportedAt": "2026-09-22T11:16:40.541Z",
+  "exportedAt": "2026-09-27T11:09:44.015Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -129,6 +129,10 @@
     "di 22 sep-02:15-Giants-Rams": {
       "home": "28",
       "away": "6"
+    },
+    "vr 25 sep-02:15-Falcons-Packers": {
+      "home": "14",
+      "away": "35"
     }
   },
   "doublersByWeek": {
@@ -143,11 +147,18 @@
       "Nick": "Ravens",
       "Marco": "Eagles",
       "Sjoerd": "Seahawks"
+    },
+    "3": {
+      "Tom": "Lions",
+      "Nick": "Chiefs",
+      "Marco": "49ers",
+      "Sjoerd": "Seahawks"
     }
   },
   "lockedWeeks": {
     "1": true,
-    "2": true
+    "2": true,
+    "3": true
   },
   "bonusAnswers": {
     "0": {
