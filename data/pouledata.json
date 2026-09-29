@@ -1,6 +1,6 @@
 {
   "version": "v23",
-  "exportedAt": "2026-09-27T11:09:44.015Z",
+  "exportedAt": "2026-09-29T07:24:15.534Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -133,6 +133,66 @@
     "vr 25 sep-02:15-Falcons-Packers": {
       "home": "14",
       "away": "35"
+    },
+    "zo 27 sep-19:00-Patriots-Jaguars": {
+      "home": "35",
+      "away": "6"
+    },
+    "zo 27 sep-19:00-Bengals-Steelers": {
+      "home": "30",
+      "away": "27"
+    },
+    "zo 27 sep-19:00-Titans-Giants": {
+      "home": "12",
+      "away": "7"
+    },
+    "zo 27 sep-19:00-Seahawks-Commanders": {
+      "home": "33",
+      "away": "31"
+    },
+    "zo 27 sep-19:00-Texans-Colts": {
+      "home": "19",
+      "away": "17"
+    },
+    "zo 27 sep-19:00-Chargers-Bills": {
+      "home": "24",
+      "away": "16"
+    },
+    "zo 27 sep-19:00-Jets-Lions": {
+      "home": "31",
+      "away": "24"
+    },
+    "zo 27 sep-19:00-Panthers-Browns": {
+      "home": "21",
+      "away": "18"
+    },
+    "zo 27 sep-19:00-Chiefs-Dolphins": {
+      "home": "10",
+      "away": "24"
+    },
+    "zo 27 sep-22:05-Vikings-Buccaneers": {
+      "home": "16",
+      "away": "23"
+    },
+    "zo 27 sep-22:05-Cardinals-49ers": {
+      "home": "36",
+      "away": "30"
+    },
+    "zo 27 sep-22:25-Raiders-Saints": {
+      "home": "27",
+      "away": "35"
+    },
+    "zo 27 sep-22:25-Ravens-Cowboys": {
+      "home": "31",
+      "away": "34"
+    },
+    "ma 28 sep-02:20-Rams-Broncos": {
+      "home": "30",
+      "away": "26"
+    },
+    "di 29 sep-02:15-Eagles-Bears": {
+      "home": "27",
+      "away": "7"
     }
   },
   "doublersByWeek": {
