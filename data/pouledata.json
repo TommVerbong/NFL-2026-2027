@@ -1,6 +1,6 @@
 {
   "version": "v23",
-  "exportedAt": "2026-09-29T07:24:15.534Z",
+  "exportedAt": "2026-10-04T16:56:12.751Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -213,12 +213,19 @@
       "Nick": "Chiefs",
       "Marco": "49ers",
       "Sjoerd": "Seahawks"
+    },
+    "4": {
+      "Tom": "Rams",
+      "Nick": "Ravens",
+      "Marco": "Bills",
+      "Sjoerd": "Seahawks"
     }
   },
   "lockedWeeks": {
     "1": true,
     "2": true,
-    "3": true
+    "3": true,
+    "4": true
   },
   "bonusAnswers": {
     "0": {
