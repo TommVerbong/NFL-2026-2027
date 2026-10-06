@@ -2,115 +2,115 @@
   "season": 2026,
   "seasonType": "REG",
   "source": "NFL.com",
-  "updatedAt": "2026-09-29T12:50:03.592623+00:00",
+  "updatedAt": "2026-10-06T13:16:44.112596+00:00",
   "message": "",
   "categories": {
     "passing": [
       {
         "player": "Bryce Young",
         "team": "",
-        "value": "939"
+        "value": "1268"
+      },
+      {
+        "player": "Jared Goff",
+        "team": "",
+        "value": "1214"
       },
       {
         "player": "Tyler Shough",
         "team": "",
-        "value": "917"
+        "value": "1203"
       },
       {
         "player": "Matthew Stafford",
         "team": "",
-        "value": "872"
+        "value": "1189"
       },
       {
-        "player": "Jordan Love",
+        "player": "Joe Burrow",
         "team": "",
-        "value": "844"
-      },
-      {
-        "player": "Patrick Mahomes",
-        "team": "",
-        "value": "812"
+        "value": "1171"
       }
     ],
     "rushing": [
       {
         "player": "Kenneth Walker III",
         "team": "III",
-        "value": "360"
+        "value": "537"
       },
       {
         "player": "Bijan Robinson",
         "team": "",
-        "value": "349"
+        "value": "494"
       },
       {
         "player": "James Cook",
         "team": "",
-        "value": "346"
-      },
-      {
-        "player": "Jahmyr Gibbs",
-        "team": "",
-        "value": "307"
+        "value": "421"
       },
       {
         "player": "Derrick Henry",
         "team": "",
-        "value": "301"
+        "value": "374"
+      },
+      {
+        "player": "Jahmyr Gibbs",
+        "team": "",
+        "value": "353"
       }
     ],
     "receiving": [
       {
-        "player": "Jaxon Smith-Njigba",
+        "player": "CeeDee Lamb",
         "team": "",
-        "value": "405"
+        "value": "498"
       },
       {
         "player": "Chris Olave",
         "team": "",
-        "value": "375"
+        "value": "491"
+      },
+      {
+        "player": "Jaxon Smith-Njigba",
+        "team": "",
+        "value": "481"
+      },
+      {
+        "player": "Tee Higgins",
+        "team": "",
+        "value": "401"
       },
       {
         "player": "Davante Adams",
         "team": "",
-        "value": "358"
-      },
-      {
-        "player": "CeeDee Lamb",
-        "team": "",
-        "value": "309"
-      },
-      {
-        "player": "Christian Watson",
-        "team": "",
-        "value": "284"
+        "value": "390"
       }
     ],
     "tackles": [
       {
-        "player": "Anthony Hill Jr.",
-        "team": "",
-        "value": "34"
-      },
-      {
         "player": "Alex Singleton",
         "team": "",
-        "value": "33"
+        "value": "47"
+      },
+      {
+        "player": "Jacob Rodriguez",
+        "team": "",
+        "value": "46"
+      },
+      {
+        "player": "Anthony Hill Jr.",
+        "team": "",
+        "value": "42"
+      },
+      {
+        "player": "Ernest Jones",
+        "team": "",
+        "value": "41"
       },
       {
         "player": "Fred Warner",
         "team": "",
-        "value": "33"
-      },
-      {
-        "player": "Azeez Al-Shaair",
-        "team": "",
-        "value": "31"
-      },
-      {
-        "player": "Akeem Davis-Gaither",
-        "team": "",
-        "value": "29"
+        "value": "40"
       }
     ],
     "sacks": [],
@@ -131,12 +131,12 @@
         "value": "2"
       },
       {
-        "player": "Devin Lloyd",
+        "player": "Jourdan Lewis",
         "team": "",
         "value": "2"
       },
       {
-        "player": "Julian Love",
+        "player": "Devin Lloyd",
         "team": "",
         "value": "2"
       }
