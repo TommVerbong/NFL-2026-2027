@@ -1,6 +1,6 @@
 {
   "version": "v23",
-  "exportedAt": "2026-10-04T16:56:12.751Z",
+  "exportedAt": "2026-10-06T06:04:30.799Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -193,6 +193,70 @@
     "di 29 sep-02:15-Eagles-Bears": {
       "home": "27",
       "away": "7"
+    },
+    "di 6 okt-02:15-Falcons-Saints": {
+      "home": "24",
+      "away": "45"
+    },
+    "ma 5 okt-02:20-Lions-Panthers": {
+      "home": "32",
+      "away": "26"
+    },
+    "zo 4 okt-22:25-Chargers-Seahawks": {
+      "home": "30",
+      "away": "23"
+    },
+    "zo 4 okt-22:25-Broncos-49ers": {
+      "home": "24",
+      "away": "14"
+    },
+    "zo 4 okt-22:25-Chiefs-Raiders": {
+      "home": "27",
+      "away": "30"
+    },
+    "zo 4 okt-22:05-Dolphins-Vikings": {
+      "home": "15",
+      "away": "10"
+    },
+    "zo 4 okt-19:00-Packers-Buccaneers": {
+      "home": "14",
+      "away": "17"
+    },
+    "zo 4 okt-19:00-Cowboys-Texans": {
+      "home": "30",
+      "away": "34"
+    },
+    "zo 4 okt-19:00-Jaguars-Bengals": {
+      "home": "17",
+      "away": "22"
+    },
+    "zo 4 okt-19:00-Titans-Ravens": {
+      "home": "24",
+      "away": "18"
+    },
+    "zo 4 okt-19:00-Patriots-Bills": {
+      "home": "26",
+      "away": "29"
+    },
+    "zo 4 okt-19:00-Rams-Eagles": {
+      "home": "20",
+      "away": "24"
+    },
+    "zo 4 okt-19:00-Cardinals-Giants": {
+      "home": "36",
+      "away": "24"
+    },
+    "zo 4 okt-19:00-Jets-Bears": {
+      "home": "23",
+      "away": "12"
+    },
+    "zo 4 okt-15:30-Colts-Commanders": {
+      "home": "13",
+      "away": "30"
+    },
+    "vr 2 okt-02:15-Steelers-Browns": {
+      "home": "27",
+      "away": "24"
     }
   },
   "doublersByWeek": {
