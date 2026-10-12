@@ -1,6 +1,6 @@
 {
   "version": "v23",
-  "exportedAt": "2026-10-06T06:04:30.799Z",
+  "exportedAt": "2026-10-12T06:54:14.781Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -257,6 +257,62 @@
     "vr 2 okt-02:15-Steelers-Browns": {
       "home": "27",
       "away": "24"
+    },
+    "vr 9 okt-02:15-Buccaneers-Cowboys": {
+      "home": "16",
+      "away": "24"
+    },
+    "zo 11 okt-15:30-Eagles-Jaguars": {
+      "home": "19",
+      "away": "17"
+    },
+    "zo 11 okt-19:00-Bengals-Dolphins": {
+      "home": "24",
+      "away": "31"
+    },
+    "zo 11 okt-19:00-Browns-Jets": {
+      "home": "17",
+      "away": "12"
+    },
+    "zo 11 okt-19:00-Raiders-Patriots": {
+      "home": "45",
+      "away": "17"
+    },
+    "zo 11 okt-19:00-Texans-Titans": {
+      "home": "3",
+      "away": "26"
+    },
+    "zo 11 okt-19:00-Colts-Steelers": {
+      "home": "34",
+      "away": "22"
+    },
+    "zo 11 okt-19:00-Giants-Commanders": {
+      "home": "27",
+      "away": "27"
+    },
+    "zo 11 okt-19:00-Vikings-Saints": {
+      "home": "13",
+      "away": "23"
+    },
+    "zo 11 okt-22:05-Broncos-Chargers": {
+      "home": "17",
+      "away": "23"
+    },
+    "zo 11 okt-22:25-Bears-Packers": {
+      "home": "31",
+      "away": "7"
+    },
+    "zo 11 okt-22:25-49ers-Seahawks": {
+      "home": "29",
+      "away": "32"
+    },
+    "zo 11 okt-22:25-Lions-Cardinals": {
+      "home": "21",
+      "away": "45"
+    },
+    "ma 12 okt-02:20-Ravens-Falcons": {
+      "home": "23",
+      "away": "30"
     }
   },
   "doublersByWeek": {
@@ -283,13 +339,20 @@
       "Nick": "Ravens",
       "Marco": "Bills",
       "Sjoerd": "Seahawks"
+    },
+    "5": {
+      "Tom": "Jaguars",
+      "Nick": "Bengals",
+      "Marco": "Vikings",
+      "Sjoerd": "Cardinals"
     }
   },
   "lockedWeeks": {
     "1": true,
     "2": true,
     "3": true,
-    "4": true
+    "4": true,
+    "5": true
   },
   "bonusAnswers": {
     "0": {
