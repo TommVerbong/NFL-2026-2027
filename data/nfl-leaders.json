@@ -2,115 +2,115 @@
   "season": 2026,
   "seasonType": "REG",
   "source": "NFL.com",
-  "updatedAt": "2026-10-13T14:08:47.223797+00:00",
+  "updatedAt": "2026-10-20T11:32:58.865653+00:00",
   "message": "",
   "categories": {
     "passing": [
       {
         "player": "Matthew Stafford",
         "team": "",
-        "value": "1572"
-      },
-      {
-        "player": "Jared Goff",
-        "team": "",
-        "value": "1485"
-      },
-      {
-        "player": "Jordan Love",
-        "team": "",
-        "value": "1408"
+        "value": "1794"
       },
       {
         "player": "C.J. Stroud",
         "team": "",
-        "value": "1402"
+        "value": "1714"
+      },
+      {
+        "player": "Jordan Love",
+        "team": "",
+        "value": "1684"
       },
       {
         "player": "Dak Prescott",
         "team": "",
-        "value": "1381"
+        "value": "1639"
+      },
+      {
+        "player": "Kirk Cousins",
+        "team": "",
+        "value": "1582"
       }
     ],
     "rushing": [
       {
-        "player": "Bijan Robinson",
-        "team": "",
-        "value": "580"
-      },
-      {
         "player": "Kenneth Walker III",
         "team": "III",
-        "value": "537"
+        "value": "665"
+      },
+      {
+        "player": "Bijan Robinson",
+        "team": "",
+        "value": "641"
       },
       {
         "player": "James Cook",
         "team": "",
-        "value": "532"
+        "value": "627"
+      },
+      {
+        "player": "Derrick Henry",
+        "team": "",
+        "value": "534"
       },
       {
         "player": "Jahmyr Gibbs",
         "team": "",
         "value": "504"
-      },
-      {
-        "player": "Derrick Henry",
-        "team": "",
-        "value": "476"
       }
     ],
     "receiving": [
       {
         "player": "Jaxon Smith-Njigba",
         "team": "",
-        "value": "583"
+        "value": "717"
       },
       {
         "player": "Chris Olave",
         "team": "",
-        "value": "537"
+        "value": "580"
       },
       {
         "player": "CeeDee Lamb",
         "team": "",
-        "value": "507"
+        "value": "577"
       },
       {
         "player": "Drake London",
         "team": "",
-        "value": "488"
+        "value": "550"
       },
       {
         "player": "Christian Watson",
         "team": "",
-        "value": "474"
+        "value": "538"
       }
     ],
     "tackles": [
+      {
+        "player": "Alex Singleton",
+        "team": "",
+        "value": "68"
+      },
+      {
+        "player": "Ernest Jones",
+        "team": "",
+        "value": "59"
+      },
+      {
+        "player": "Fred Warner",
+        "team": "",
+        "value": "58"
+      },
       {
         "player": "Jacob Rodriguez",
         "team": "",
         "value": "57"
       },
       {
-        "player": "Alex Singleton",
+        "player": "Nakobe Dean",
         "team": "",
-        "value": "54"
-      },
-      {
-        "player": "Ernest Jones",
-        "team": "",
-        "value": "50"
-      },
-      {
-        "player": "Fred Warner",
-        "team": "",
-        "value": "50"
-      },
-      {
-        "player": "Anthony Hill Jr.",
-        "team": "",
-        "value": "47"
+        "value": "56"
       }
     ],
     "sacks": [],
