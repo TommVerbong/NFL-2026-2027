@@ -1,6 +1,6 @@
 {
   "version": "v23",
-  "exportedAt": "2026-11-02T08:09:24.503Z",
+  "exportedAt": "2026-11-03T10:08:01.015Z",
   "scores": {
     "do 10 sep-02:20-Patriots-Seahawks": {
       "home": "13",
@@ -481,6 +481,10 @@
     "ma 2 nov-02:20-Eagles-Commanders": {
       "home": "27",
       "away": "10"
+    },
+    "di 3 nov-02:15-Bears-Seahawks": {
+      "home": "17",
+      "away": "34"
     }
   },
   "doublersByWeek": {
